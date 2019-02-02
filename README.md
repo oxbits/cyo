@@ -6,7 +6,7 @@ forked from:
 
 https://github.com/danielstern/cyo
 
-(below from there)
+(below from original)
 
 ![cyo](https://raw.githubusercontent.com/danielstern/cyo/master/cyo-logo.png)
 
