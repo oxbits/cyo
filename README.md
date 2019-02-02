@@ -1,3 +1,13 @@
+skool.html isolates and hosts the example game from the CYO project page:
+
+https://danielstern.github.io/cyo/
+
+forked from:
+
+https://github.com/danielstern/cyo
+
+(below from there)
+
 ![cyo](https://raw.githubusercontent.com/danielstern/cyo/master/cyo-logo.png)
 
 CYO (Choose Your Own) is an extremely simple, but powerful, storytelling engine built with Angular.js.
